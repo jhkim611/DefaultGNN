@@ -240,7 +240,7 @@ for epoch in range(1, 501):
         loss1 = criterion1(out, y[batch_nodes])
 
         p_s = F.softmax(out_s, dim=1)[:, 1]
-        p_b = F.softmax(out_s, dim=1)[:, 1]
+        p_b = F.softmax(out_b, dim=1)[:, 1]
 
         conf_s = torch.abs(p_s - 0.5)*2.0
         conf_b = torch.abs(p_b - 0.5)*2.0

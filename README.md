@@ -3,11 +3,11 @@
 <p align="center">   
     <a href="https://pytorch.org/" alt="PyTorch">
       <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white" /></a>
-    <a href="https://uobevents.eventsair.com/cikm2023//" alt="Conference">
+    <a href="https://cikm2026.diag.uniroma1.it/" alt="Conference">
         <img src="https://img.shields.io/badge/CIKM'26-green" /></a>
 </p>
 
-The official source code for "[DefaultGNN: A Dual-Perspective GNN Framework for Predicting Corporate Default from Buyer-Seller Transaction Networks](https://dsail.kaist.ac.kr/publications_conference/)", accepted to CIKM 2026.
+The official source code for "[DefaultGNN: A Dual-Perspective GNN Framework for Predicting Corporate Default from Buyer-Seller Transaction Networks](https://arxiv.org/abs/2609.25542)", accepted to CIKM 2026.
 
 ## Overview
 

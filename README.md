@@ -7,7 +7,7 @@
         <img src="https://img.shields.io/badge/CIKM'26-green" /></a>
 </p>
 
-The official source code for "[DefaultGNN: A Dual-Perspective GNN Framework for Predicting Corporate Default from Buyer-Seller Transaction Networks](https://arxiv.org/abs/2609.25542)", accepted to CIKM 2026.
+The official source code for "[DefaultGNN: A Dual-Perspective GNN Framework for Predicting Corporate Default from Buyer-Seller Transaction Networks](https://arxiv.org/abs/2609.25542)", accepted at CIKM 2026.
 
 ## Overview
 

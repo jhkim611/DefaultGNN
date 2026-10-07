@@ -15,3 +15,13 @@ Corporate default prediction is a core problem in financial risk management, yet
 
 <img width="750" alt="architecture" src="https://github.com/user-attachments/assets/fc4c6ea2-790e-4662-a36e-eefa696a1e97" />
 
+## Citation
+
+```bibtex
+@article{kim2026defaultgnn,
+  title={DefaultGNN: A Dual-Perspective GNN Framework for Predicting Corporate Default from Buyer-Seller Transaction Networks},
+  author={Kim, Junghoon and Kim, Hyunsung and Choi, Seungyoon and Park, KyoungYong and Lee, Jihun and Ji, YongGu and Park, Chanyoung},
+  journal={arXiv preprint arXiv:2609.25542},
+  year={2026}
+}
+```
